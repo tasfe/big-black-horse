@@ -389,3 +389,152 @@
 ************************************************************************
 ************************************************************************
  */
+
+.t_banner .dm_slide_num {
+	position: relative;
+	width: 190px;
+	height: 420px;
+	overflow: hidden;
+}
+.t_banner .dm_slide_num .ks-switchable-nav {
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+	z-index: 99;
+}
+.t_banner .dm_slide_num .ks-switchable-nav li {
+	float: left;
+	width: 10px;
+	height: 10px;
+	overflow: hidden;
+	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2LZ5tXh0aXXXXXXXX_!!446388887.gif) no-repeat 0 -15px;
+	margin-left: 5px;
+	text-align: center;
+	border: none;
+	cursor: pointer;
+	text-indent: -9999px;
+}
+.t_banner .dm_slide_num .ks-switchable-nav li.ks-active {
+	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2LZ5tXh0aXXXXXXXX_!!446388887.gif) no-repeat 0 0;
+}
+.t_banner .dm_slide_num .ks-switchable-content li {
+	width: 190px;
+	height: 420px;
+	overflow: hidden;
+}
+.t_banner .dm_slide_num .ks-switchable-content li  img{
+	width: 190px;
+	height: 420px;
+}
+
+.t_banner_r .dm_slide_num {
+	position: relative;
+	width: 750px;
+	height: 420px;
+	overflow: hidden;
+}
+.t_banner_r .dm_slide_num .ks-switchable-nav {
+	position: absolute;
+	bottom: 15px;
+	right: 15px;
+	z-index: 99;
+}
+.t_banner_r .dm_slide_num .ks-switchable-nav li {
+	float: left;
+	width: 10px;
+	height: 10px;
+	overflow: hidden;
+	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2LZ5tXh0aXXXXXXXX_!!446388887.gif) no-repeat 0 -15px;
+	margin-left: 5px;
+	text-align: center;
+	border: none;
+	cursor: pointer;
+	text-indent: -9999px;
+}
+.t_banner_r .dm_slide_num .ks-switchable-nav li.ks-active {
+	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2LZ5tXh0aXXXXXXXX_!!446388887.gif) no-repeat 0 0;
+}
+.t_banner_r .dm_slide_num .ks-switchable-content li {
+	width: 750px;
+	height: 420px;
+	overflow: hidden;
+}
+.t_banner_r .dm_slide_num .ks-switchable-content li  img{
+	width: 750px;
+	height: 420px;
+}
+
+.fkrm_l .c_hd {
+	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2A0utXohXXXXXXXXX_!!446388887.gif) no-repeat;
+	height: 54px;
+}
+.fkrm_r .c_hd {
+	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T25dutXnxXXXXXXXXX_!!446388887.jpg) no-repeat;
+	height: 54px;
+}
+.fkrm_l .c_bd,
+.fkrm_r .c_bd {
+	text-align: center;
+	padding: 10px 0 0 0;
+}
+.fkrm_r .c_hd h3 {
+	width: 250px;
+	color: #fff;
+	font-weight: bold;
+	font-size: 38px;
+	text-align: center;
+	padding: 0 0 0 145px;
+	line-height: 50px;
+}
+.fkrm_l .c_bd li {
+	padding: 0 0 15px 0;
+}
+.fkrm_r .c_bd li {
+	padding: 0 15px 15px 0;
+	float: left;
+}
+.fkrm_l .c_bd a,
+.fkrm_r .c_bd a {
+	display: block;
+}
+.fkrm_l .c_bd a img,
+.fkrm_r .c_bd a img {
+	width: 170px;
+	height: 202px;
+	border: 1px solid #fff;
+}
+.fkrm_l .c_bd a:hover img,
+.fkrm_r .c_bd a:hover img {
+	border: 1px solid #BBBCBB;
+}
+.fkrm_l .c_bd a p,
+.fkrm_r .c_bd a p {
+	width: 165px;
+	height: 40px;
+	line-height: 20px;
+	color: #606160;
+	font-weight: bold;
+	margin: 10px auto;
+}
+.fkrm_l .c_bd a:hover p,
+.fkrm_r .c_bd a:hover p {
+	color: #f00;
+}
+.fkrm_l .c_bd a span,
+.fkrm_r .c_bd a span {
+	display: block;
+	background: url(http://img04.taobaocdn.com/imgextra/i4/446388887/T2TtutXnNXXXXXXXXX_!!446388887.jpg) no-repeat 15px 0;
+	height: 24px;
+	line-height: 24px;
+	color: #000;
+	font-weight: bold;
+	text-indent: 45px;
+}
+.fkrm_r .c_bd a span {
+	text-indent: 60px;
+}
+.fkrm_l .c_bd a span em,
+.fkrm_r .c_bd a span em {
+	color: #B30000;
+	font-size: 14px;
+}

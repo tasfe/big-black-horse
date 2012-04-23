@@ -29,7 +29,7 @@
 	border: 1px solid #ADADAD;
 }
 .shop-list .item .pic:hover {
-	border: 1px solid #B30101;
+	border: 1px solid #f00;
 }
 
 /* header */
@@ -67,7 +67,7 @@
 	background: none;
 }
 .tb-shop .box .shop-banner .bd .shop-header .nav ul {
-	background: #925237;
+	background: #B30101;
 	height: 36px;
 	overflow: hidden;
 	zoom: 1;
@@ -111,7 +111,7 @@
 	color: #fff;
 }
 .cat-items {
-	border: 1px solid #925237;
+	border: 1px solid #B30101;
 	padding: 0;
 	background: rgba(136, 136, 136, 0.9);
 	*background: #888888;
@@ -151,12 +151,12 @@
 }
 .tb-shop .col-sub .box .hd {
 	height: 40px;
-	background: url(http://img04.taobaocdn.com/imgextra/i4/446388887/T2iZFmXj0NXXXXXXXX_!!446388887.jpg) no-repeat;
+	background: url(http://img03.taobaocdn.com/imgextra/i3/446388887/T2C0KFXhVaXXXXXXXX_!!446388887.png) no-repeat;
 	border: none;
 }
 .tb-shop .col-main .box .hd {
 	height: 40px;
-	background: url(http://img04.taobaocdn.com/imgextra/i4/446388887/T2iZFmXj0NXXXXXXXX_!!446388887.jpg) no-repeat;
+	background: url(http://img03.taobaocdn.com/imgextra/i3/446388887/T2C0KFXhVaXXXXXXXX_!!446388887.png) no-repeat;
 	border: none;
 }
 .tb-shop .col-sub .box .hd h3 {
@@ -232,7 +232,7 @@
 }
 .tb-shop .box .shop-category .bd ul li h4 a {
 	display: block;
-	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2kKNqXkFNXXXXXXXX_!!446388887.png) no-repeat;
+	background: url(http://img02.taobaocdn.com/imgextra/i2/446388887/T2o1aFXlBXXXXXXXXX_!!446388887.png) no-repeat;
 	width: 160px;
 	height: 40px;
 	color: #fff;
@@ -260,7 +260,7 @@
 }
 .tb-shop .box .shop-category .bd ul li.expand ul li a {
 	display: block;
-	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2kKNqXkFNXXXXXXXX_!!446388887.png) no-repeat 0 -50px;
+	background: url(http://img02.taobaocdn.com/imgextra/i2/446388887/T2o1aFXlBXXXXXXXXX_!!446388887.png) no-repeat 0 -50px;
 	width: 160px;
 	height: 40px;
 	color: #8F5639;
@@ -276,7 +276,7 @@
 
 /* goods price */
 .shop-list .item .price {
-	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2cYVmXe8NXXXXXXXX_!!446388887.jpg) no-repeat 25px 0;
+	background: url(http://img03.taobaocdn.com/imgextra/i3/446388887/T2BemFXgJXXXXXXXXX_!!446388887.jpg) no-repeat 25px 0;
 	height: 30px;
 	overflow: hidden;
 	line-height: 30px;
@@ -383,8 +383,8 @@
 	color: #fff;
 }
 .tb-shop .box .shop-slider .bd ul.lst-trigger li.current {
-	background: #925237;
-	border: 1px solid #925237;
+	background: #B30101;
+	border: 1px solid #B30101;
 	color: #fff;
 	font-weight: bold;
 }
@@ -402,7 +402,7 @@
 .dhgg .daohang .c_hd,
 .dhgg .gg .c_hd {
 	height: 40px;
-	background: url(http://img04.taobaocdn.com/imgextra/i4/446388887/T2iZFmXj0NXXXXXXXX_!!446388887.jpg) no-repeat;
+	background: url(http://img03.taobaocdn.com/imgextra/i3/446388887/T2C0KFXhVaXXXXXXXX_!!446388887.png) no-repeat;
 	line-height: 48px;
 	font-size: 14px;
 	color: #000;
@@ -422,18 +422,18 @@
 	height: 28px;
 	line-height: 28px;
 	padding: 0 0 8px 0;
-	color: #925038;
+	color: #B30100;
 	font-weight: bold;
 }
 .dhgg .keywords dt {
 	float: left;
-	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2ebVlXf8NXXXXXXXX_!!446388887.jpg) no-repeat;
+	background: url(http://img03.taobaocdn.com/imgextra/i3/446388887/T2XKeFXkpXXXXXXXXX_!!446388887.jpg) no-repeat;
 	width: 89px;
 	height: 27px;
 	line-height: 26px;
 	color: #FFFFFF;
 	font-size: 12px;
-	text-indent: 15px;
+	text-indent: 17px;
 	font-weight: bold;
 	overflow: hidden;
 }
@@ -458,7 +458,6 @@
 }
 .dhgg .gg .c_bd marquee {
 	height: 130px;
-    overflow: hidden;
     width: 180px;
 }
 
@@ -571,7 +570,7 @@
 	width: 40px;
 	height: 90px;
 	overflow: hidden;
-	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2aN4uXjhMXXXXXXXX_!!446388887.jpg) no-repeat 0 0;
+	background: url(http://img04.taobaocdn.com/imgextra/i4/446388887/T2ntWFXcdaXXXXXXXX_!!446388887.jpg) no-repeat 0 0;
 	position: absolute;
 	left: 387px;
 	top: 280px;
@@ -586,7 +585,7 @@
 	width: 40px;
 	height: 90px;
 	overflow: hidden;
-	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2aN4uXjhMXXXXXXXX_!!446388887.jpg) no-repeat -50px 0;
+	background: url(http://img04.taobaocdn.com/imgextra/i4/446388887/T2ntWFXcdaXXXXXXXX_!!446388887.jpg) no-repeat -50px 0;
 	position: absolute;
 	right: 0;
 	top: 280px;
@@ -647,7 +646,7 @@
 }
 .dm-carousel .dm-box .ks-switchable-content li .desc a .price {
 	display: block;
-	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2sX4vXd8NXXXXXXXX_!!446388887.jpg) no-repeat 0 0;
+	background: url(http://img01.taobaocdn.com/imgextra/i1/446388887/T2JumFXgxXXXXXXXXX_!!446388887.png) no-repeat 0 0;
 	width: 175px;
 	height: 52px;
 	line-height: 52px;

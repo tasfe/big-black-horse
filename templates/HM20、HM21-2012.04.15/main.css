@@ -151,12 +151,12 @@
 }
 .tb-shop .col-sub .box .hd {
 	height: 60px;
-	background: url(http://img04.taobaocdn.com/imgextra/i4/446388887/T2WcByXltNXXXXXXXX_!!446388887.jpg) no-repeat;
+	background: none;
 	border: none;
 }
 .tb-shop .col-main .box .hd {
 	height: 60px;
-	background: url(http://img04.taobaocdn.com/imgextra/i4/446388887/T2WcByXltNXXXXXXXX_!!446388887.jpg) no-repeat;
+	background: none;
 	border: none;
 }
 .tb-shop .col-sub .box .hd h3 {
@@ -175,29 +175,25 @@
 }
 .tb-shop .col-sub .box .hd span {
 	height: 60px;
-	display: block;
+	display: inline-block;
 	margin: 0;
-	padding: 0;
-	background: none;
+	padding: 0 5px;
+	background: url(http://img02.taobaocdn.com/imgextra/i2/446388887/T2.bCIXgVXXXXXXXXX_!!446388887.jpg) no-repeat right top;
 	line-height: 60px;
-	padding: 0;
 	font-size: 16px;
 	color: #FFFFFF;
 	font-weight: bold;
-	text-indent: 5px;
 }
 .tb-shop .col-main .box .hd span{
 	height: 60px;
-	display: block;
+	display: inline-block;
 	margin: 0;
-	padding: 0;
-	background: none;
+	padding: 0 5px;
+	background: url(http://img02.taobaocdn.com/imgextra/i2/446388887/T2.bCIXgVXXXXXXXXX_!!446388887.jpg) no-repeat right top;
 	line-height: 60px;
-	padding: 0;
 	font-size: 16px;
 	color: #fff;
 	font-weight: bold;
-	text-indent: 5px;
 }
 .tb-shop .col-sub .box .bd,
 .tb-shop .col-main .box .bd {

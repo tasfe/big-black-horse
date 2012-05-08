@@ -8,6 +8,9 @@
 .hm_fixed {
 	position: fixed;
 }
+.tb-shop {
+	background: url(http://img03.taobaocdn.com/imgextra/i3/446388887/T2Dh8mXndMXXXXXXXX_!!446388887.jpg) repeat-x 0 115px;
+}
 .tb-shop a {
 	color: #000;
 }

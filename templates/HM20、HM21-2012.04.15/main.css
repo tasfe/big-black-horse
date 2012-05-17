@@ -428,12 +428,13 @@ a.no-3 img {
 	width: 500px;
 	height: 340px;
 }
-a.no-1-p1:hover,
-a.no-1-p2:hover,
-a.no-1-p3:hover,
-a.no-2:hover,
-a.no-3:hover {
-	border: 1px solid #f00;
+a.no-1-p1:hover img,
+a.no-1-p2:hover img,
+a.no-1-p3:hover img,
+a.no-2:hover img,
+a.no-3:hover img {
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60);
+	opacity: .6;
 }
 a.no-1-p1 p,
 a.no-1-p2 p,
@@ -549,6 +550,10 @@ a.no-1-p3 {
 	cursor: pointer;
 	background: #9CD5C6;
 	border-right: 2px solid #fff;
+}
+.dm_slide_kapan .ks-switchable-nav li.last {
+	border: none;
+	width: 189px;
 }
 .dm_slide_kapan .ks-switchable-nav li a {
 	display: block;
@@ -691,12 +696,12 @@ a.no-1-p3 {
 .w4 a p {
 	width: 300px;
 }
-.w1 a:hover p,
-.w2 a:hover p,
-.w3 a:hover p,
-.w4 a:hover p {
-	visibility: visible;
-	color: #f00;
+.w1 a:hover img,
+.w2 a:hover img,
+.w3 a:hover img,
+.w4 a:hover img {
+	filter:progid:DXImageTransform.Microsoft.Alpha(opacity=60);
+	opacity: .6;
 }
 .favo {
 	margin: 5px 4px 0;

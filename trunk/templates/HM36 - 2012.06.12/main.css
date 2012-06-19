@@ -361,12 +361,12 @@
 }
 .mirror .good a {
 	display: block;
-	width: 212px;
-	height: 212px;
+	width: 302px;
+	height: 302px;
 }
 .mirror .good a img {
-	width: 210px;
-	height: 210px;
+	width: 300px;
+	height: 300px;
 	border: 1px solid #764F26;
 }
 .mirror .a1 {

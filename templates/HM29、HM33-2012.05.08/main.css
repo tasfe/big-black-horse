@@ -760,17 +760,10 @@
 	overflow: hidden;
 }
 .dhgg .keywords {
-	padding: 10px 0 0 20px;
-}
-.dhgg .keywords dl {
-	height: 28px;
-	line-height: 28px;
-	padding: 0 0 8px 0;
+	padding: 0 0 0 20px;
 	color: #97C90E;
-	font-weight: bold;
 }
-.dhgg .keywords dt {
-	float: left;
+.dhgg .keywords .kw_title {
 	background: url(http://img03.taobaocdn.com/imgextra/i3/446388887/T2wVNuXlJMXXXXXXXX_!!446388887.jpg) no-repeat;
 	width: 89px;
 	height: 28px;
@@ -780,11 +773,9 @@
 	text-indent: 15px;
 	font-weight: bold;
 	overflow: hidden;
+	text-align: left;
 }
-.dhgg .keywords dd {
-	float: left;
-}
-.dhgg .keywords dd a {
+.dhgg .keywords a {
 	padding: 0 15px 0;
 }
 

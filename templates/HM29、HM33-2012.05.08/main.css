@@ -126,8 +126,8 @@
 .cat-items {
 	border: 1px solid #000000;
 	padding: 0;
-	background: rgba(255, 255, 255, 0.8);
-	*background: #F736A1;
+	background: url(http://img02.taobaocdn.com/imgextra/i2/446388887/T2IABkXndNXXXXXXXX_!!446388887.png) repeat;
+	_background: #fff;
 	width: 700px;
 	height: auto;
 }
